@@ -1,4 +1,8 @@
 ## Hi there 👋
+Beginner programmer
+Currently learning programming, Git & Github
+To build my skills one project at a time
+My goal is obtain some developer skills and to keep improving through real projects building and continuous learning
 
 <!--
 **sainte-dawg/sainte-dawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
